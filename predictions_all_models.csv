@@ -1,0 +1,7 @@
+PatientIndex,Name,Model,Prediction,Prob_Diabetic
+1,vanshi,Logistic Regression,Diabetic,0.7998557345631976
+1,vanshi,Random Forest,Non-Diabetic,0.435
+1,vanshi,Gradient Boosting,Non-Diabetic,0.16317979611325156
+1,vanshi,XGBoost,Diabetic,0.8121337890625
+1,vanshi,LightGBM,Non-Diabetic,0.4242086017818793
+1,vanshi,Voting,Diabetic,0.5185693266531584
